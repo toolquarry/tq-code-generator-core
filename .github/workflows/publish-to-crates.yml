@@ -1,9 +1,8 @@
 name: publish-to-crates
 
-# disable workflows
-# on:
-#   push:
-#     branches: ["main"]
+on:
+  push:
+    branches: ["main"]
 
 env:
   CARGO_TERM_COLOR: always
