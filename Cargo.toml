@@ -1,0 +1,17 @@
+[package]
+name = "tq-code-generator-core"
+version = "0.1.0"
+edition = "2021"
+authors = ["ToolQuarry"]
+description = "The Rust library developed by ToolQuarry that Secure, efficient, and easy to use, it's the ideal solution for generating unique codes of all kinds."
+license = "MIT"
+license-file = "LICENSE"
+documentation = "https://github.com/toolquarry/tq-code-generator-core"
+repository = "https://github.com/toolquarry/tq-code-generator-core"
+homepage = "https://github.com/toolquarry/tq-code-generator-core"
+readme = "README.md"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rand = "0.8.5"
