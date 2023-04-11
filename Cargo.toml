@@ -1,6 +1,6 @@
 [package]
 name = "tq-code-generator-core"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["ToolQuarry"]
 description = "The Rust library developed by ToolQuarry that Secure, efficient, and easy to use, it's the ideal solution for generating unique codes of all kinds."
